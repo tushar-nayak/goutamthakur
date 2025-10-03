@@ -23,7 +23,7 @@ repository               : "tushar-nayak/goutamthakur"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "prof.jpg"
+  avatar           : "prof.png"
   name             : "Dr. Goutam Thakur"
   pronouns         : # example: "she/her"  
   bio              : "Professor, Department of Biomedical Engineering at Manipal Institute of Technology"
